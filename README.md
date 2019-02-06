@@ -13,11 +13,11 @@ Make it executable:
 
 `sudo chmod +x pibackup.sh`
 
-> -- Optional --
+>  ---- Optional ----
 >
 > Move the file to your scripts folder or an attached drive/network share you are using for backups. 
-
-`mv pibackup.sh /media/storage/location/pibackup.sh`
+>
+> `mv pibackup.sh /media/storage/location/pibackup.sh`
 
 Now edit the file and replace the values of:
 
